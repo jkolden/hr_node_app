@@ -11,3 +11,7 @@
 
 - NODE_ORACLEDB_PASSWORD (ATP password)
 - TNS_ADMIN (lists the path to the wallet file)
+
+## Helpful Resources
+
+- https://github.com/oracle/node-oracledb/tree/master/examples
