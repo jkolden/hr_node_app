@@ -1,3 +1,7 @@
+# How to run this application
+
+- docker run --name typical_node_example -p 3000:3000 -it -e TNS_ADMIN='/usr/src/app/Wallet_DB201909100942' -e NODE_ORACLEDB_PASSWORD='<my_db_pw>' node_example
+
 # Node API against Oracle ATP DB
 
 - Based on https://jsao.io/2018/03/creating-a-rest-api-with-node-js-and-oracle-database/
